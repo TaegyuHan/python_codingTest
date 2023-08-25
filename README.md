@@ -29,10 +29,10 @@
 
 ### 👨‍👨‍👧‍👧 스터디 인원
 
-[@easyhoon](https://github.com/easyhooon), [@rappire](https://github.com/rappire), [@makie082](https://github.com/makie082), [@JUNYOUNG31](https://github.com/JUNYOUNG31), [@ksyint](https://github.com/ksyint), [@mildsalmon](https://github.com/mildsalmon), [@jihyuk](https://github.com/hyukji), [@baekeunsun](https://github.com/baekeunsun)
+[@easyhoon](https://github.com/easyhooon), [@JUNYOUNG31](https://github.com/JUNYOUNG31), [@jihyuk](https://github.com/hyukji), [@Taegyu](https://github.com/TaegyuHan)
 
-
----
+### 👨‍👨‍👧‍👧 past member
+[@baekeunsun](https://github.com/baekeunsun), [@makie082](https://github.com/makie082), [@mildsalmon](https://github.com/mildsalmon), [@ksyint](https://github.com/ksyint), [@rappire](https://github.com/rappire)
 
 
 ### 📑 문제 리스트
@@ -56,3 +56,4 @@
 | 8월 1주차 |[가장 큰 정사각형](https://www.acmicpc.net/problem/1915),[소형기관차](https://www.acmicpc.net/problem/2616),[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)/[캐슬 디펜스](https://www.acmicpc.net/problem/17135), [⚾](https://www.acmicpc.net/problem/17281), [숨바꼭질2](https://www.acmicpc.net/problem/12851)
 | 8월 3주차 |[LCS 2](https://www.acmicpc.net/problem/9252),[게리맨더링 2](https://www.acmicpc.net/problem/17779),[어두운 건 무서워](https://www.acmicpc.net/problem/16507)/[여러분의 다리가 되어 드리겠습니다!](https://www.acmicpc.net/problem/17352), [수 묶기](https://www.acmicpc.net/problem/1744), [새로운 게임 2](https://www.acmicpc.net/problem/17837)
 | 8월 4주차 |[원판 돌리기](https://www.acmicpc.net/problem/17822),[할로윈의 양아치](https://www.acmicpc.net/problem/20303),[스도쿠](https://www.acmicpc.net/problem/2239)/[이모티콘](https://www.acmicpc.net/problem/14226), [전구와 스위치](https://www.acmicpc.net/problem/2138), [주사위 윷놀이](https://www.acmicpc.net/problem/17825)
+| 8월 5주차 |[가스관](https://www.acmicpc.net/problem/2931),[빙산](https://www.acmicpc.net/problem/2573),[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)/[두 로봇](https://www.acmicpc.net/problem/15971), [괄호 추가하기](https://www.acmicpc.net/problem/16637), [매직 스타](https://www.acmicpc.net/problem/3967)
