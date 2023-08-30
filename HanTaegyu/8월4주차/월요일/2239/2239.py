@@ -44,7 +44,7 @@ def solve_sudoku(index: int) -> None:
 
 
 if __name__ == '__main__':
-    input = open('./test1.txt')
+    input = open('test1.txt')
 
     board = []
     empty_list = []

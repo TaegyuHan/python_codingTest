@@ -59,7 +59,7 @@ def main() -> None:
     print(dp[-1][-1], end="")
 
 if __name__ == '__main__':
-    input = open('./test1.txt')
+    input = open('test1.txt')
     people_count, relationship_count, crying_maximum = map(int, input.readline().split())
     candy = list(map(int, input.readline().split()))
     parents = [i for i in range(people_count)]
